@@ -1,5 +1,6 @@
 # Research
 ### RandomForest Rule 기반의 파생변수 생성 및 연관성분석을 통한 파생변수 기반 매커니즘 해석
+### (during Kyunghee university DataMining Lab Intern)
 
 ## 분석과정
 ### 1. 데이터 전처리
